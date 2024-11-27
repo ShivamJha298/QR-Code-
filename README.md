@@ -1,4 +1,4 @@
-# QR-Code-
+# QR-Code
 Created a QR code project using Python.  
 
 It involves creating a program that generates a QR code image by encoding data like a URL, text, or contact information into a visual pattern that can be scanned by a smartphone camera using a Python library like "qrcode", allowing users to quickly access the encoded information when scanned.  
